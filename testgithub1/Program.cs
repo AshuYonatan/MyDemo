@@ -11,7 +11,7 @@ namespace testgithub1
         static void Main(string[] args)
         {
             Console.Write("Hello Github");
-
+            int i = 1;
         }
     }
 }
